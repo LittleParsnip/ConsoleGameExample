@@ -1,0 +1,7 @@
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\ConsoleGame.exe
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\ConsoleGame.dll
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\ConsoleGame.deps.json
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\ConsoleGame.runtimeconfig.json
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\ConsoleGame.pdb
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\nunit.framework.dll
+E:\LittleParsnip\My Projects\ConsoleGameExample\ConsoleGame\bin\Debug\net8.0\publish\nunit.framework.legacy.dll
